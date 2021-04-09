@@ -14,7 +14,7 @@ gem 'spree_multi_vendor'
 # gem 'spree_drop_ship'
 # gem 'spree_marketplace'
 # gem 'spree_wallet', '~> 2.2', '>= 2.2.1'
-# gem 'spree_wallet'
+gem 'spree_wallet', github: 'vinsol-spree-contrib/spree_wallet', branch: '3-0-stable'
 # gem 'spree_core', '~> 4.2', '>= 4.2.1'
 
 # Use sqlite3 as the database for Active Record

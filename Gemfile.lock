@@ -358,6 +358,8 @@ GEM
       spree_extension
     spree_sample (4.2.1)
       spree_core (= 4.2.1)
+    spree_wallet (2.0.6)
+      spree_core
     spring (2.1.1)
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
@@ -428,6 +430,7 @@ DEPENDENCIES
   spree_gateway (~> 3.9)
   spree_i18n (~> 5.0)
   spree_multi_vendor
+  spree_wallet
   spring
   sqlite3 (~> 1.4)
   turbolinks (~> 5)
