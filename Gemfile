@@ -10,6 +10,12 @@ gem 'spree', '~> 4.2'
 gem 'spree_auth_devise', '~> 4.3'
 gem 'spree_gateway', '~> 3.9'
 gem 'spree_i18n', '~> 5.0'
+gem 'spree_multi_vendor'
+# gem 'spree_drop_ship'
+# gem 'spree_marketplace'
+# gem 'spree_wallet', '~> 2.2', '>= 2.2.1'
+# gem 'spree_wallet'
+# gem 'spree_core', '~> 4.2', '>= 4.2.1'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
